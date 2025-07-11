@@ -67,5 +67,5 @@ for (let i = 1; i < data.length; i++) {
 - Run the function createRevisionReminders once
 - Grant permission when prompted
 
-Tips 
+## Tips 
 Use triggers to automate daily runs (Triggers → Add Trigger → time-driven)
