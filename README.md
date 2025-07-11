@@ -15,7 +15,7 @@ This project automates reminders for revision topics (like coding, non-tech, etc
 ## 📁 Project Structure
 
 📂 Google-Sheet-Reminder/
-├── 📄 Code.gs # Google Apps Script code
+├── 📄 Reminder_Code.gs # Google Apps Script code
 ├── 📄 README.md # Project documentation (this file)
 
 
